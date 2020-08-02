@@ -1,1 +1,2 @@
-# 2D_Video_Game_NUS
+# 2DGame
+A 2D game
